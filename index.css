@@ -1,23 +1,29 @@
+
+
 body {
     font-family:"Lucida Console", Monaco, monospace;
     color: #5aff00;
     background: #222;
-    margin:0px;
+    margin:0%;
     max-width:100%;
     line-height:0.69;
-    font-size:5px;
+    font-size:106%;
     padding:20 0px;
 }
 
 #datamoth {
     color: #5aff00 !important;
-    line-height:0.37 !important;
-    font-size:9px !important;
-    padding:20 200px;
+    max-width: 100%;
+    margin: %;
+    line-height:37% !important;
+
+    font-size:89%x !important;
+    padding:20 200%;
 }
 
 #sketch-holder {
-
+	    display: flex;
+    justify-content: center;
 }
 
 a {
@@ -34,6 +40,8 @@ a:active {
   background-color: #333;
     text-decoration: none;
 }
+
+
 
 a:visited {
   background-color: #333;

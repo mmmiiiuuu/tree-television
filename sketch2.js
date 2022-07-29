@@ -26,7 +26,7 @@ function preload() {
 
 function setup() {
 
-  var canvas3 = createCanvas(windowWidth,windowHeight/PI+HALF_PI,windowHeight/.001/windowWidth/PI+HALF_PI);
+  var canvas3 = createCanvas(1080,500);
 
   canvas3.parent('sketch-holder');
   canvas3.style('z-index', '-1');
